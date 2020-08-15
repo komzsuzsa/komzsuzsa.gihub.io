@@ -1,2 +1,2 @@
-# komzsuzsa.gihub.io
+# komzsuzsa.github.io
 Demo page 
